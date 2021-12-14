@@ -30,6 +30,7 @@ For each set of items that you put into a package provide a new row in the outpu
 numbers are separated by comma). 
 
 E.g.
+
 4
 -
 2,7
